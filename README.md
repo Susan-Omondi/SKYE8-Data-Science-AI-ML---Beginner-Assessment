@@ -2,7 +2,7 @@
 This repository contains my solutions  for Data Science assessment test to evaluate my basic knowledge.
 - It contains a function to calculate the mean of a list of numbers.
 - A function to load a CSV file and return a Pandas DataFrame
-- 
+  
 - # My approach
 - (The mean calculation)- Here the goal is to calculate the mean of a list of numbers.
 - I created a list containing numbers only and used else if 'None'. This would mean that if my list doesn't contain numbers only numbers, then my function will check if it is empty.
